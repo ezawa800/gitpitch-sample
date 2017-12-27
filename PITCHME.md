@@ -44,4 +44,18 @@ if (fuga === true) {
 
 ---
 
+### Use Chart.js
+
+<canvas data-chart="radar">
+
+
+    Month, Jan., Feb., Mar., Apr., May., Jun., July.
+    1980, 65, 59, 80, 81, 56, 55, 40
+    2017, 28, 48, 40, 19, 86, 27, 90
+
+
+</canvas>
+
+---
+
 ### End
