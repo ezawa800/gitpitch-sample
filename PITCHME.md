@@ -28,4 +28,19 @@ load from [gist](https://gist.github.com/ezawa800/ad366694a85ed928d8aad944444917
 
 ---
 
+### Code Highlight
+
+```
+const hoge = true;
+const fuga = !fuga;
+
+let piyo = false;
+if (fuga === true) {
+  piyo = true;
+}
+```
+@[2](reverse of fuga)
+
+---
+
 ### End
