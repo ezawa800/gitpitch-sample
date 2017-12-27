@@ -2,13 +2,11 @@
 
 This is a sample slide using GitPitch.
 
----
+---?code=src/sample.js
 
 ### 2nd Slide
 
----?code=src/sample.js
-
-```markdown
+```
 <!-- load from 'src/sample.js' -->
 ---?code=src/sample.js
 ```
