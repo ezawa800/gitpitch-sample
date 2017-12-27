@@ -6,10 +6,6 @@ This is a sample slide using GitPitch.
 
 ### 2nd Slide
 
----?code=src/sample.js
-
-load from 'src/sample.js'
-
 ---
 
 ### 3rd Slide
@@ -21,6 +17,14 @@ load from 'src/sample.js'
 ### 4th Slide
 
 ↑↑↑
+
+---?code=src/sample.js
+
+load from 'src/sample.js'
+
+---?gist=ad366694a85ed928d8aad9444449170f
+
+load from https://gist.github.com/ezawa800/ad366694a85ed928d8aad9444449170f
 
 ---
 
