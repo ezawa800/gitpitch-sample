@@ -24,7 +24,7 @@ load from 'src/sample.js'
 
 ---?gist=ad366694a85ed928d8aad9444449170f
 
-load from https://gist.github.com/ezawa800/ad366694a85ed928d8aad9444449170f
+load from [gist](https://gist.github.com/ezawa800/ad366694a85ed928d8aad9444449170f)
 
 ---
 
