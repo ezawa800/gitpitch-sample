@@ -8,7 +8,15 @@ This is a sample slide using GitPitch.
 
 ---
 
-### 3rd Slide
+### 3rd Slide ↓↓
+
+↓↓
+
++++
+
+### 3rd Slide　↑↑
+
+↑↑
 
 ---
 
