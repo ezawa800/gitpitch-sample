@@ -14,7 +14,7 @@ This is a sample slide using GitPitch.
 
 +++
 
-### 3rd Slide
+### 4th Slide
 
 ↑↑↑
 
