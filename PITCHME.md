@@ -39,7 +39,7 @@ if (fuga === true) {
   piyo = true;
 }
 ```
-@[2](reverse of fuga)
+@[2]
 
 ---
 
